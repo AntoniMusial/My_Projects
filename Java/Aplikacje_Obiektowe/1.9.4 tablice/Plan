@@ -1,0 +1,6 @@
+Losowanie dla 10 osób oceny z przedziału od 1 do 6 i zapisze do tablicy
+
+Wyciągnie Imiona i Nazwiska z pliku uczniowie.txt i zapisze w tablicy, następnie wyświetli Imie i Nazwisko + wylosowana ocena dla danej osoby
+
+z pliku czylosowac.txt wcztaj liczby tam wystepujace, if wczyta liczbe 0, nie losuje liczby. if wczyta 1, odczutuje adekwatna liczbe z ileliczb.txt ktora odpowiada za ilosc wylosowanych liczb z zakersu od 0-80, wylosowane liczby wyswietlane sa jedna obok drugiej.
+Program nie kończy się dopóki nie sprawdzi wszystkich liczb z pliku czylosowac.txt i wyswietla komunikat " Odczytałem wszystkie liczby! "

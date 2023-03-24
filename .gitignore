@@ -1,0 +1,47 @@
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# IntelliJ project files
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+
+# HTML files and sub-languages
+*.html
+*.htm
+*.shtml
+*.xhtml
+*.md
+*.markdown
+*.jade
+*.pug
+*.haml
+*.slim
+*.xml
+
+# CSS files and pre-processors
+*.css
+*.sass
+*.scss
+*.less
+*.styl
+
+# JavaScript files and frameworks
+*.js
+*.jsx
+*.coffee
+*.ts
+*.tsx
+node_modules/
